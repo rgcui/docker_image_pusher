@@ -1,5 +1,6 @@
 openjdk:8-jdk-alpine3.9
 openjdk:8-jdk
+docker.io/arm64v8/openjdk:8-jdk
 quay.io/singularity/singularity:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
